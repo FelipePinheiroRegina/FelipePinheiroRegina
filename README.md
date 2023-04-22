@@ -30,7 +30,7 @@ Também não posso esquecer de mencionar que sou apaixonado por musculação, e 
 
 • Dedicação
 
-Sendo assim, consigo aplica-lás em tudo que eu faço na minha vida, com foco em meus estudos em Tecnologias!. 🚀
+Sendo assim, consigo aplica-lás em tudo que eu faço na minha vida, com foco nos meus estudos em Tecnologias!. 🚀
 
 ## Últimos projetos pessoais
 - [Projeto utilizando HTML5, CSS3, JavaScript](https://felipepinheiroregina.github.io/projeto-javascript/index#)<br/>
