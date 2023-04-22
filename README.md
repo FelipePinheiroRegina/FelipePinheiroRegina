@@ -22,7 +22,7 @@ Eu conheci o mundo da programação/dev de softwares em meados de 2022, e desde 
 para me desenvolver profissionalmente, e alcançar meu objetivo, que é ser um grande (Software Engineer).
 
 
-Também não posso esquecer de mencionar que sou apaixonado por musculação, e que através dela, desenvolvi quatro grandes (Soft Skills 😂), como:
+Não posso esquecer de mencionar que sou apaixonado por musculação, e que através dela, desenvolvi quatro grandes (Soft Skills 😂), como:
 
 • Disciplina
 
