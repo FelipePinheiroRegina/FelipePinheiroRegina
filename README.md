@@ -18,7 +18,9 @@
 </div><br/>
 
 ## Sobre mim
-Eu conheci o mundo da programação/dev de softwares em meados de 2022, e desde então estou apaixonado, buscando conhecimento dia após dia, para me tornar um grande programador (Full-Stack).
+Eu conheci o mundo da programação/dev de softwares em meados de 2022, e desde então estou apaixonado, buscando conhecimento dia após dia, também estou buscando uma oportunidade na área,
+para me desenvolver profissionalmente, e alcançar meu objetivo, que é ser um grande (Software Engineer).
+
 
 Também não posso esquecer de mencionar que sou apaixonado por musculação, e que através dela, desenvolvi quatro grandes (Soft Skills 😂), como:
 
