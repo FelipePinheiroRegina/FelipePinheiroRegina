@@ -19,10 +19,10 @@
 
 ## Sobre mim
 Eu conheci o mundo da programação/dev de softwares em meados de 2022, e desde então estou apaixonado, buscando conhecimento dia após dia, também estou buscando uma oportunidade na área,
-para me desenvolver profissionalmente, e alcançar meu objetivo, que é ser um grande (Software Engineer).
+para me desenvolver profissionalmente, e um dia alcançar meu objetivo, que é ser um grande (Software Engineer).
 
 
-Não posso esquecer de mencionar que sou apaixonado por musculação, e que através dela, desenvolvi quatro grandes (Soft Skills 😂), como:
+Não posso esquecer de mencionar que sou apaixonado por musculação, e que através dela, desenvolvi quatro grandes (Soft Skills), como:
 
 • Disciplina
 
@@ -32,7 +32,7 @@ Não posso esquecer de mencionar que sou apaixonado por musculação, e que atra
 
 • Dedicação
 
-Sendo assim, consigo aplica-lás em tudo que eu faço na minha vida, com foco nos meus estudos em Tecnologias!. 🚀
+Sendo assim, consigo aplica-lás em tudo que eu faço na minha vida, com foco nos meus estudos em Tecnologias!.🚀
 
 ## Últimos projetos pessoais
 - [Projeto utilizando HTML5, CSS3, JavaScript](https://felipepinheiroregina.github.io/projeto-javascript/index#)<br/>
