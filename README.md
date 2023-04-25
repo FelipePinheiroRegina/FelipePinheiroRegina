@@ -19,7 +19,7 @@
 ## Sobre mim
 Eu conheci o mundo da programação/dev de softwares em meados de 2022, e desde então estou apaixonado, buscando conhecimento dia após dia. 
 
-Estou em busca de um desafio, uma primeira oportunidade, para testar meus conhecimentos, estou bastante empolgado nessa jornada de programador, tenho facilidade em aprender novas tarefas e me comunicar, e desistir não é uma opção, com muita dedicação, disciplina e constância, sei que um dia terei a chance de mostrar meu valor para o mercado da Tecnologia da Informação.
+Estou em busca de um desafio, uma primeira oportunidade, para testar meus conhecimentos, estou bastante empolgado nessa jornada de programador, tenho facilidade em aprender novas tarefas e me comunicar, e desistir não é uma opção, com muita dedicação, disciplina e constância, sei que um dia terei a chance de provar meu valor para o mercado da Tecnologia da Informação.
 
 ## Últimos projetos pessoais
 - [Projeto utilizando HTML5, CSS3, JavaScript](https://felipepinheiroregina.github.io/projeto-javascript/index#)<br/>
