@@ -1,4 +1,4 @@
-### Seja Bem-Vindo!, Eu sou o Felipe Pinheiro ✋
+### Olá, Eu sou o Felipe Pinheiro ✋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pinheiro-002427250/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feh_pinheiroo/)
@@ -18,8 +18,6 @@
 
 ## Sobre mim
 Eu conheci o mundo da programação/dev de softwares em meados de 2022, e desde então estou apaixonado, buscando conhecimento dia após dia. 
-
-Estou em busca de um desafio, uma primeira oportunidade, para testar meus conhecimentos, tenho facilidade em me comunicar, trabalhar em equipe, e agilidade em aprender uma nova tarefa, pronto para qualquer desafio!.
 
 ## Últimos projetos pessoais
 - [Projeto utilizando HTML5, CSS3, JavaScript](https://felipepinheiroregina.github.io/projeto-javascript/index#)<br/>
