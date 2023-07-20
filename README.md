@@ -17,14 +17,4 @@
 </div><br/>
 
 ## Sobre mim
-Eu conheci o mundo da programação/dev de softwares em meados de 2022, e desde então estou apaixonado, buscando conhecimento dia após dia. 
-
-## Últimos projetos pessoais
-- [Projeto utilizando HTML5, CSS3, JavaScript](https://felipepinheiroregina.github.io/projeto-javascript/index#)<br/>
-- [Projeto utilizando HTML5, CSS3](https://felipepinheiroregina.github.io/projeto-gym/gym/index)
-
-
-
-
-
-  
+Eu conheci o mundo da programação/dev de softwares em meados de 2022, e desde então estou apaixonado, buscando conhecimento dia após dia.   
