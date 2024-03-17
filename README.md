@@ -1,4 +1,4 @@
-<img src="https://github.com/FelipePinheiroRegina/FelipePinheiroRegina/blob/main/Felipe%20pinh.png" height="400vh" width="100%">
+<img src="https://github.com/FelipePinheiroRegina/FelipePinheiroRegina/blob/main/Felipe%20pinh.png" height="350vh" width="100%">
 
 ### `{"Name": "Felipe"}`
 ### `{"Lastname": "Pinheiro"}`
