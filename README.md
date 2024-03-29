@@ -1,6 +1,6 @@
-<img align="right" width="auto" height="450" src="https://github.com/FelipePinheiroRegina/FelipePinheiroRegina/blob/main/Bm7L.gif">
-
 # Welcome to my profile!  &nbsp; <img width="30px" src="https://github.com/FelipePinheiroRegina/FelipePinheiroRegina/assets/113048688/fc17f9e0-f895-4d8c-8f93-e245163788f9">
+
+<img align="right" width="auto" height="300" src="https://github.com/FelipePinheiroRegina/FelipePinheiroRegina/blob/main/Bm7L.gif">
 
 - 🌐 &nbsp; Júnior Web Developer
 
