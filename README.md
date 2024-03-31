@@ -14,6 +14,8 @@
 
 - 📌 &nbsp; Always have the ambition to be better
 
+- ⏳ &nbsp; It's fair that a lot costs what a lot is worth 
+
 <br>
 
 ## 📫 &nbsp; How to reach me
