@@ -2,7 +2,7 @@
 
 <img align="right" width="auto" height="300" src="https://github.com/FelipePinheiroRegina/FelipePinheiroRegina/blob/main/Bm7L.gif">
 
-- 🌐 &nbsp; JavaScript Developer
+- 🌐 &nbsp; Web Developer
 
 - 📚 &nbsp; I'm currently learning about all javascript ecosystem
 
